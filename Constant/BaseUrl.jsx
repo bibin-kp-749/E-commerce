@@ -1,0 +1,1 @@
+export default BaseUrl="http://localhost:8000/persons"
